@@ -1,0 +1,23 @@
+{
+  "basePath": "postures/",
+  "images": [
+    { "id": "posture_01", "file": "90-90-90.avif" },
+    { "id": "posture_02", "file": "Both_Knees_Up.avif" },
+    { "id": "posture_03", "file": "Knee_Up_Leg_Tucked_1.avif" },
+    { "id": "posture_04", "file": "Cow_Face.avif" },
+    { "id": "posture_05", "file": "Knee_Up_Leg_Tucked_2.avif" },
+    { "id": "posture_06", "file": "Knee_Up_Sitting_On_Foot_1.avif" },
+    { "id": "posture_07", "file": "Knee_Up_Sitting_On_Foot_2.avif" },
+    { "id": "posture_08", "file": "Knees_Crossed.avif" },
+    { "id": "posture_09", "file": "Leg_Tucked_Over_Leg.avif" },
+    { "id": "posture_10", "file": "Leg_Tucked_Under_Leg.avif" },
+    { "id": "posture_11", "file": "Legs_Out_Reclined.avif" },
+    { "id": "posture_12", "file": "Lotus.avif" },
+    { "id": "posture_13", "file": "One_Knee_Up.avif" },
+    { "id": "posture_14", "file": "Perch.avif" },
+    { "id": "posture_15", "file": "Side_Sitting.avif" },
+    { "id": "posture_16", "file": "Sitting_On_Feet.avif" },
+    { "id": "posture_17", "file": "Sitting_On_Foot_w_Knees_Crossed.avif" },
+    { "id": "posture_18", "file": "Sitting_On_One_Foot.avif" }
+  ]
+}
